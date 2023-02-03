@@ -40,6 +40,7 @@ namespace Ejercicios
             }
             errorProvider1.Clear();
 
+
             decimal num1 = Convert.ToDecimal(Numero1TextBox.Text);
             decimal num2 = Convert.ToDecimal(Numero2TextBox.Text);
 
